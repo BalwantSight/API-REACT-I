@@ -1,4 +1,9 @@
-Links del Proyecto
+<div align="center">
 
-Link de video en youtube: https://www.youtube.com/watch?v=TahAy3P5gYg
-Link de Netlify: https://main--spiffy-selkie-a6df3d.netlify.app/
+<h1>Links del Proyecto</h1>
+
+</div>
+
+<p>Link a video de youtube: https://www.youtube.com/watch?v=TahAy3P5gYg</p>
+<br>
+<p>Link de proyecto en Netlify: https://consumereactapi.netlify.app/</p>
